@@ -1,38 +1,38 @@
 [
-      {
-        "nombre": "Juan Perez",
-        "nivel": 15,
-        "goles": 10,
-        "sueldo": 50000,
-        "bono": 25000,
-        "sueldo_completo": 66500,
-        "equipo": "rojo"
-      },
-      {
-        "nombre": "EL Cuauh",
-        "nivel": 20,
-        "goles": 30,
-        "sueldo": 100000,
-        "bono": 30000,
-        "sueldo_completo": 145000,
-        "equipo": "azul"
-      },
-      {
-        "nombre": "Cosme Fulanito",
-        "nivel": 5,
-        "goles": 7,
-        "sueldo": 20000,
-        "bono": 10000,
-        "sueldo_completo": 34000,
-        "equipo": "azul"
-      },
-      {
-        "nombre": "El Rulo",
-        "nivel": 10,
-        "goles": 9,
-        "sueldo": 30000,
-        "bono": 15000,
-        "sueldo_completo": 43500,
-        "equipo": "rojo"
-      }
-    ]
+  {
+    "nombre": "Juan Perez",
+    "nivel": 15,
+    "goles": 10,
+    "sueldo": 50000,
+    "bono": 25000,
+    "sueldo_completo": 66500,
+    "equipo": "rojo"
+  },
+  {
+    "nombre": "EL Cuauh",
+    "nivel": 20,
+    "goles": 30,
+    "sueldo": 100000,
+    "bono": 30000,
+    "sueldo_completo": 130000,
+    "equipo": "azul"
+  },
+  {
+    "nombre": "Cosme Fulanito",
+    "nivel": 5,
+    "goles": 7,
+    "sueldo": 20000,
+    "bono": 10000,
+    "sueldo_completo": 30000,
+    "equipo": "azul"
+  },
+  {
+    "nombre": "El Rulo",
+    "nivel": 10,
+    "goles": 9,
+    "sueldo": 30000,
+    "bono": 15000,
+    "sueldo_completo": 43500,
+    "equipo": "rojo"
+  }
+]
