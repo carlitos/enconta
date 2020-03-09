@@ -5,6 +5,8 @@
 ## Descripción de funcionamiento
 - ``` app.rb ``` es el programa con los requerimientos necesarios para calcular el sueldo del jugador y colocarlo en el campo especificado como ```sueldo_completo: null ```
 
+- Salida de datos: ``` sueldos_jugadores_calculados.json  ```
+
 ```json
 {
     "nombre": "Juan Perez",
@@ -17,8 +19,9 @@
   }
 ```
 
-
 - ``` app_por_equipo.rb ``` es el programa que recibe un json para poder calcular el total de sueldos a pagar por los equipos que existan en el json leido, regresa un arreglo json con el nombre del equipo y cuanto se debe de pagar por equipo, no importa cuantos equipos existan en el json.
+
+- Salida de datos: ``` data_by_team.json ```
 
 ```json
 [[["rojo"],110000],[["azul"],160000],[["verde"],25650],[["amarillo"],62000]]
