@@ -36,5 +36,34 @@
          "sueldo_completo":null,
          "equipo":"rojo"
    
+      },
+      {  
+         "nombre":"El Pepenador",
+         "nivel":10,
+         "goles":10,
+         "sueldo":15000,
+         "bono":5000,
+         "sueldo_completo":null,
+         "equipo":"verde"
+   
+      },
+      {  
+         "nombre":"El Potro",
+         "nivel":15,
+         "goles":2,
+         "sueldo":5000,
+         "bono":5000,
+         "sueldo_completo":null,
+         "equipo":"verde"
+   
+      },
+      {  
+         "nombre":"El Gomita",
+         "nivel":20,
+         "goles":21,
+         "sueldo":40000,
+         "bono":22000,
+         "sueldo_completo":null,
+         "equipo":"amarillo"
       }
    ]
